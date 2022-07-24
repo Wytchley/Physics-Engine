@@ -1,0 +1,2 @@
+G:\PhysicsSimulation\PhysicsSimulation\x64\Debug\PhysicsSimulation.exe
+D:\GitHub\Physics-Engine\PhysicsSimulation\x64\Debug\PhysicsSimulation.exe
